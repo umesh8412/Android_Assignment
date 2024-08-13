@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/linksFragment"
+        android:actionLayout="@layout/fragment_links"
+        android:icon="@drawable/link"
+        android:title="Links"
+        android:visible="true" />
+
+
+    <item
+        android:id="@+id/btm_nav_course"
+        android:icon="@drawable/courses"
+        android:title="Courses"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/placeHolder"
+        android:title=""/>
+
+    <item
+        android:id="@+id/btm_nav_campaign"
+        android:icon="@drawable/campaign"
+        android:title="Campaigns"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/btm_nav_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"
+        android:visible="true" />
+
+
+</menu>
