@@ -15,10 +15,10 @@ This project involves developing an Android application with the following key f
 
 - **Programming Language**: Kotlin
 - **Architecture Pattern**: MVVM (Model-View-ViewModel)
-- **UI Design**: XML or Jetpack Compose
+- **UI Design**: XML
 - **API Integration**: Retrofit with Bearer Token Authentication
 - **Navigation**: Jetpack Navigation
 - **Graph Library**: [https://github.com/PhilJay/MPAndroidChart](PhilJay/MPAndroidChart)
 
 ## Download the apk
-- **Apk**: [https://drive.google.com/file/d/1aG6CvUB7x76geDshjU9RNtjBY4mTR4Qg/view?usp=sharing]( download link)
+- **Apk**: [https://drive.google.com/file/d/1aG6CvUB7x76geDshjU9RNtjBY4mTR4Qg/view?usp=sharing]
