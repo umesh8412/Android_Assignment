@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/fragmentLinks">
+
+    <fragment
+        android:id="@+id/fragmentLinks"
+        android:name="com.umesh.androidassignment.ui.FragmentLinks"
+        android:label="fragment_links"
+        tools:layout="@layout/fragment_links" />
+    <fragment
+        android:id="@+id/campaignFragment"
+        android:name="com.umesh.androidassignment.ui.CampaignFragment"
+        android:label="fragment_campaign"
+        tools:layout="@layout/fragment_campaign" />
+    <fragment
+        android:id="@+id/coursesFragment"
+        android:name="com.umesh.androidassignment.ui.CoursesFragment"
+        android:label="fragment_courses"
+        tools:layout="@layout/fragment_courses" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.umesh.androidassignment.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>
