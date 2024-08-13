@@ -18,7 +18,7 @@ This project involves developing an Android application with the following key f
 - **UI Design**: XML
 - **API Integration**: Retrofit with Bearer Token Authentication
 - **Navigation**: Jetpack Navigation
-- **Graph Library**: [https://github.com/PhilJay/MPAndroidChart](PhilJay/MPAndroidChart)
+- **Graph Library**: [https://github.com/PhilJay/MPAndroidChart]
 
 ## Download the apk
 - **Apk**: [https://drive.google.com/file/d/1aG6CvUB7x76geDshjU9RNtjBY4mTR4Qg/view?usp=sharing]
